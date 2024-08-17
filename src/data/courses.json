@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "course_name": "Python",
+        "course_modules": [
+            {
+                "module1": "Introduction to Python",
+                "module2": "Variables in Python",
+                "module3": "Control Statements in Python",
+                "module4": "Data Structures in Python"
+            }
+        ],
+        "image": "",
+        "course_fee": "3000"
+    },
+    {
+        "id": 1,
+        "course_name": "Java",
+        "course_modules": [
+            {
+                "module1": "Introduction to Java",
+                "module2": "Variables in Java",
+                "module3": "Control Statements in Java",
+                "module4": "Data Structures in Java"
+            }
+        ],
+        "image": "",
+        "course_fee": "6000"
+    }
+]
